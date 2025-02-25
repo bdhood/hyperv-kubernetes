@@ -60,7 +60,7 @@ source "hyperv-iso" "debian12" {
 build {
   source "hyperv-iso.debian12" {
     vm_name = "node-base"
-    output_directory = "${var.vm_path}\\node-base"
+    output_directory = "${var.vm_path}/node-base"
   }
 
   provisioner "file" {

@@ -1,0 +1,7 @@
+{
+    "nodeCount": 3,
+    "nodeCpus": 2,
+    "nodeMemory": 3072,
+    "nodeDisk": 20480,
+    "VMPath": "D:\\VMs"
+}
